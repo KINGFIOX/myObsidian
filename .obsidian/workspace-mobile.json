@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "52a9677810b3b844",
+    "type": "split",
+    "children": [
+      {
+        "id": "c17b9f7ea92474a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b554f2cbffcbc05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e56126ab02e2a768",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4a6ce7760207d6ac",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "08085f44c12ba46d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a03c35e7290bd0ca",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7d7de674507e9a22",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "af6f473c95aa3dd6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "530f7950cc3a9e15",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5641cc1e4803b627",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "115979ef2cf3d29e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "publish:发布更改": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "8b554f2cbffcbc05",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-02-23 10.46.22.excalidraw.md",
+    "202302231042.md",
+    "日记/2023年01月24日-星期二.md",
+    "离散数学/图论/attachments/Pasted image 20230211192346.png",
+    "线性代数及其应用/特征值与特征空间（续）.md",
+    "离散数学/图论/attachments/Pasted image 20230210144907.png",
+    "日记/2023年02月22日-星期三.md",
+    "线性代数及其应用/向量空间.md",
+    "00_模板/日记模板.md",
+    "离散数学/图论/attachments/Pasted image 20230208181338.png",
+    "latex特特殊符号/20200622220515183.png",
+    "离散数学/图论/attachments/Pasted image 20230201214822.png",
+    "高数/大一上期末考试零散知识点.md",
+    "C_ADT/动态数组.md",
+    "离散数学/图论/attachments/Pasted image 20230208153316.png",
+    "收集箱/vim键盘映射.md",
+    "日记/2023年02月08日-星期三.md",
+    "离散数学/图论/attachments/Pasted image 20230207191744.png",
+    "收集箱/LLBD调试教程.md",
+    "离散数学/图论/attachments/Pasted image 20230208153524.png",
+    "离散数学/图论/attachments/Pasted image 20230208190705.png",
+    "日记/2023年02月04日-星期六.md",
+    "离散数学/图论/attachments/Pasted image 20230202211440.png",
+    "线性代数及其应用/正交性和最小二乘法.md",
+    "日记/2023年01月25日-星期三.md",
+    "日记/2023年02月16日-星期四.md",
+    "线性代数及其应用/对称矩阵和二次型.md",
+    "线性代数及其应用/特征值与特征空间.md",
+    "202302230930.md",
+    "未命名 1.canvas",
+    "日记/2023年02月23日-星期四.md",
+    "未命名.canvas",
+    "微分方程.md",
+    "00_模板",
+    "Generated",
+    "Generated/images",
+    "离散数学/图论/树.md",
+    "离散数学/图论/支配、覆盖、独立、匹配与着色.md",
+    "离散数学/集合论/attachments",
+    "离散数学/集合论/二元关系.md",
+    "离散数学/集合论/集合代数.md",
+    "离散数学/attachments",
+    "离散数学/图论",
+    "离散数学/集合论",
+    "离散数学",
+    "离散数学/集合论/函数.md",
+    "离散数学/图论/attachments",
+    "离散数学/数理逻辑"
+  ]
+}
