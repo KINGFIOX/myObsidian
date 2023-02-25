@@ -18,5 +18,5 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }

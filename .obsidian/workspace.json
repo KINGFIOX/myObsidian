@@ -11,12 +11,8 @@
             "id": "3d93fb740cbfc562",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c++/C++入门day02.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c++/C++入门day02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c++/C++入门day02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "c++/C++入门day02.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,10 +143,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0d3cacf936b75140",
+  "active": "3d93fb740cbfc562",
   "lastOpenFiles": [
-    "c++/C++入门day01.md",
+    "日记/2023年02月25日-星期六.md",
+    "收集箱/用markdown画流程图.md",
+    "收集箱/LLBD调试教程.md",
+    "收集箱/git.md",
     "c++/C++入门day02.md",
+    "c++/C++入门day01.md",
     "c++/attachments/Pasted image 20230225152852.png",
     "c++/attachments/Pasted image 20230225144909.png",
     "c++/attachments/Pasted image 20230225135009.png",
@@ -165,13 +161,10 @@
     "c++/attachments/Pasted image 20230225101756.png",
     "c++/attachments/Pasted image 20230225100744.png",
     "c++/attachments/Pasted image 20230225100415.png",
-    "收集箱/LLBD调试教程.md",
     "GNU/GDB、LLDB.md",
     "GNU/GCC入门.md",
-    "收集箱/git.md",
     "GNU/git.md",
     "README.md",
-    "收集箱/用markdown画流程图.md",
     "GNU/ranger.md",
     "GNU/github.md",
     "python/NLP项目处理/pytorch初体验.md",
