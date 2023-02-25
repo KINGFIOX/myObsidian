@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集箱/git.md",
+                "file": "c++/C++入门day02.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b69d4bd2c89aa721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GNU/git.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 214.50390243530273
   },
   "right": {
     "id": "dbe7eb130331bc2d",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNU/git.md",
+                "file": "c++/C++入门day02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNU/git.md",
+                "file": "c++/C++入门day02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNU/git.md"
+                "file": "c++/C++入门day02.md"
               }
             }
           }
@@ -147,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,32 +151,32 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b69d4bd2c89aa721",
+  "active": "0d3cacf936b75140",
   "lastOpenFiles": [
-    "README.md",
-    "收集箱/git.md",
-    "收集箱/LLBD调试教程.md",
-    "收集箱/用markdown画流程图.md",
-    "GNU/git.md",
-    "GNU/ranger.md",
-    "GNU/github.md",
-    "GNU/GCC入门.md",
-    "python/NLP项目处理/pytorch初体验.md",
     "c++/C++入门day01.md",
     "c++/C++入门day02.md",
+    "c++/attachments/Pasted image 20230225152852.png",
+    "c++/attachments/Pasted image 20230225144909.png",
+    "c++/attachments/Pasted image 20230225135009.png",
+    "c++/attachments/Pasted image 20230225133359.png",
+    "c++/attachments/Pasted image 20230225133002.png",
+    "c++/attachments/Pasted image 20230225104340.png",
+    "c++/attachments/Pasted image 20230225102935.png",
+    "c++/attachments/Pasted image 20230225101756.png",
+    "c++/attachments/Pasted image 20230225100744.png",
+    "c++/attachments/Pasted image 20230225100415.png",
+    "收集箱/LLBD调试教程.md",
+    "GNU/GDB、LLDB.md",
+    "GNU/GCC入门.md",
+    "收集箱/git.md",
+    "GNU/git.md",
+    "README.md",
+    "收集箱/用markdown画流程图.md",
+    "GNU/ranger.md",
+    "GNU/github.md",
+    "python/NLP项目处理/pytorch初体验.md",
     "收集箱/导数相关的符号.md",
     "收集箱/编译过程解析.md",
-    "c++/attachments/Pasted image 20230224202124.png",
-    "c++/attachments/Pasted image 20230224202044.png",
-    "c++/attachments/Pasted image 20230224201235.png",
-    "GNU/GDB、LLDB.md",
-    "GNU/attachments/94CA0F7A-0825-4C79-9CB6-B1B2DCD5D44A_1_201_a.jpeg",
-    "GNU/attachments/A97B35AE-521F-4B7F-82BA-73BCCE4365BF_1_201_a.jpeg",
-    "GNU/attachments/644F6257-5C1A-4DDF-A213-78200463CBAB_1_201_a.jpeg",
-    "GNU/attachments/75BC23F2-84F9-4DD3-A3D7-355F27A24A5B_1_201_a 1.jpeg",
-    "GNU/attachments/75BC23F2-84F9-4DD3-A3D7-355F27A24A5B_1_201_a.jpeg",
-    "GNU/attachments/68AEB2FC-94F0-4857-B736-26282F902DD9_1_201_a.jpeg",
-    "GNU/attachments/722CB6AC-3F2B-4D0E-98FF-BC98D1926967_1_201_a 1.jpeg",
     "日记/2023年02月23日-星期四.md",
     "GNU/attachments",
     "未命名",
@@ -205,7 +192,6 @@
     "csdiy/Web开发/fullstackopen.md",
     "csdiy/Web开发/fullstackopen.en.md",
     "csdiy/Web开发/CS142.md",
-    "csdiy/Web开发/CS142.en.md",
     "csdiy/Web开发",
     "csdiy/images/favicon.ico",
     "csdiy/images",
