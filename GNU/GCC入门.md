@@ -307,6 +307,9 @@ $ gcc -Wall -g main.c
 ```
 
 ### 编译器优化（源码的两种常见优化）
+
+^8bb7f8
+
 ##### Common Subexpression Elimination（公共的子表达式的消除）
 举个例子：
 ```math

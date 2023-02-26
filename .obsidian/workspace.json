@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "713d3041884c0a14",
+        "id": "bde733dac08e7855",
         "type": "tabs",
         "children": [
           {
-            "id": "3d93fb740cbfc562",
+            "id": "db6bcd88483fc58c",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "c++/C++入门day03.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "c++/C++入门day03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "c++/C++入门day03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "c++/C++入门day03.md"
+              }
             }
           }
         ],
@@ -143,13 +151,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3d93fb740cbfc562",
+  "active": "db6bcd88483fc58c",
   "lastOpenFiles": [
+    "c++/attachments/Pasted image 20230226132121.png",
+    "GNU/GCC入门.md",
+    "c++/C++入门day03.md",
+    "c++/C++入门day02.md",
     "日记/2023年02月25日-星期六.md",
+    "README.md",
+    "线性代数及其应用/特征值与特征空间（续）.md",
+    "收集箱/导数相关的符号.md",
     "收集箱/用markdown画流程图.md",
     "收集箱/LLBD调试教程.md",
     "收集箱/git.md",
-    "c++/C++入门day02.md",
     "c++/C++入门day01.md",
     "c++/attachments/Pasted image 20230225152852.png",
     "c++/attachments/Pasted image 20230225144909.png",
@@ -162,13 +176,10 @@
     "c++/attachments/Pasted image 20230225100744.png",
     "c++/attachments/Pasted image 20230225100415.png",
     "GNU/GDB、LLDB.md",
-    "GNU/GCC入门.md",
     "GNU/git.md",
-    "README.md",
     "GNU/ranger.md",
     "GNU/github.md",
     "python/NLP项目处理/pytorch初体验.md",
-    "收集箱/导数相关的符号.md",
     "收集箱/编译过程解析.md",
     "日记/2023年02月23日-星期四.md",
     "GNU/attachments",
@@ -182,9 +193,6 @@
     "csdiy/index.md",
     "csdiy/Web开发/mitweb.md",
     "csdiy/Web开发/mitweb.en.md",
-    "csdiy/Web开发/fullstackopen.md",
-    "csdiy/Web开发/fullstackopen.en.md",
-    "csdiy/Web开发/CS142.md",
     "csdiy/Web开发",
     "csdiy/images/favicon.ico",
     "csdiy/images",

@@ -41882,6 +41882,7 @@ setttings
 share
 strcpy
 src
+self
 wA
 wg
 wE
@@ -88064,6 +88065,7 @@ NJUOS
 Notes
 Next
 NASA
+Name
 Xc
 XTv
 XF
@@ -104856,6 +104858,7 @@ malloc
 mathrm
 merge
 master
+myObsidian
 Qu
 Qx
 Qi
@@ -114788,6 +114791,7 @@ pull
 private
 public
 protected
+person
 DI
 DL
 DXJ
