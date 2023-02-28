@@ -272,6 +272,7 @@ class Person(const Person &p){
 ### 初始化列表（给成员属性赋初值）
 ```C++
 class Person{
+public:
 	// 当然这里不一定都要赋初值
 	Person(int a,int b,int c):m_A(a),m_B(b),m_C(c){
 		// 空实现
@@ -291,6 +292,7 @@ private:
 ```C++
 #include <string>
 class Phone{
+public:
 	Phone(string pN){
 		m_phoneName=pN;
 		cout<<"phone的有参构造调用"<<endl;
@@ -302,6 +304,7 @@ class Phone{
 	string m_phoneName;
 };
 class Game{
+public:
 	Game(){
 		cout<<"Game的有参构造调用"<<endl;
 	}
@@ -311,6 +314,7 @@ class Game{
 	string m_gameName;
 };
 class Person{
+public:
 	Person(string name,string pN,string gN):m_personName(name),m_phone(pN),m_game(gN){.    }
 	string m_personName;
 	Phone m_phone;
@@ -332,6 +336,7 @@ explicit | BrE ɪkˈsplɪsɪt,ɛkˈsplɪsɪt, AmE ɪkˈsplɪsət | adject
 比方说像下面场景
 ```C++
 class MyString{
+public:
 	MyString(char* str){
 	
 	}
@@ -358,7 +363,7 @@ C语言下动态分配内存的一些缺点：
 ```C++
 // new和malloc
 Person* p = new Person;
-相当于
+// 相当于
 Person* p = (Person* )malloc(sizeof(Person));
 if (p == NULL){
 return 0;
@@ -371,6 +376,7 @@ Person->Init();  // 其中这个init是构造函数，而且要我们自己来�
 注意一定，new出来的对象数组一定会调用默认构造，假如有这样一段代码会报错，因为[[C++入门day03#^e7aaa4]]如果存在有参构造，编译器就不会提供默认构造函数，但是new出来的对象数组一定会调用默认构造，就有问题了，这个时候哪怕我们假如一个默认构造（空实现）也好
 ```C++
 class Person{
+public:
 	Person(int x){
 	
 	}
@@ -381,7 +387,7 @@ Person* p = new Person[10];
 delete p;
 }
 ```
-但是这样还是不够的，我们会在delete出现问题，这个问题就是大名鼎鼎的内存泄漏问题。不过编译器通常会记下来我们创建的元素的个数，所以只需要告诉编译器我们这个是数组就好了，也就是把delete语句改写成`delete [] p `就行了
+但是这样还是不够的，我们会在delete出现问题，这个问题就是大名鼎鼎的内存泄漏问题。不过编译器通常会记下来我们创建的元素的个数，所以只需要告诉编译器我们这个是数组就好了，也就是把delete语句改写成`delete [] p `就行了,不然就只会释放一个。
 ##### 3.想一个问题，用new开辟数组会调用默认构造，那在栈区开辟的数组能不能没有默认构造？大难是：可以的
 ```C++
 Person Array[10] = {Person(10),Person(20)};
@@ -392,6 +398,8 @@ Person Array[10] = {Person(10),Person(20)};
 Person* p = new Person[10]{Person(10),Person(20)};
 ```
 对了，这里返回的是一个一级指针，不用二级指针去接收，用以及的就好了
+##### 5.new、delete相当于运算符，而malloc和free相当于库函数
+new、delete直接调用就行了
 
 这里使用编译的时候是有一个坑的
 ```Shell

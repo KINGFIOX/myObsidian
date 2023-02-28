@@ -10512,6 +10512,7 @@ checkout
 config
 checkou
 class
+calloc
 xu
 xKe
 xb
@@ -21995,6 +21996,7 @@ gitconfig
 gitTest
 gitlab
 github
+game
 vW
 vI
 vZ
@@ -24792,6 +24794,7 @@ vgxSs
 variable
 value
 verbos
+void
 Tj
 Tf
 TO
@@ -41883,6 +41886,9 @@ share
 strcpy
 src
 self
+showClass
+showAge
+showPerson
 wA
 wg
 wE
@@ -104859,6 +104865,9 @@ mathrm
 merge
 master
 myObsidian
+members
+myClass
+mutable
 Qu
 Qx
 Qi
@@ -112774,6 +112783,7 @@ eigenvects
 endif
 email
 externC
+explicit
 pd
 pE
 px
@@ -114792,6 +114802,8 @@ private
 public
 protected
 person
+phone
+printer
 DI
 DL
 DXJ
@@ -122325,6 +122337,7 @@ ddot
 diff
 develop
 dist
+delete
 US
 Ue
 UY
@@ -140228,6 +140241,7 @@ remote
 reset
 revert
 reflog
+realloc
 JcU
 JPP
 Jy
