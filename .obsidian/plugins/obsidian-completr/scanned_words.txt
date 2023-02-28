@@ -10513,6 +10513,7 @@ config
 checkou
 class
 calloc
+clang
 xu
 xKe
 xb
@@ -16245,6 +16246,7 @@ Mercurial
 MERGING
 Merge
 MarkDown
+MyArray
 Wh
 WN
 Wz
@@ -24795,6 +24797,7 @@ variable
 value
 verbos
 void
+visual
 Tj
 Tf
 TO
@@ -35607,6 +35610,7 @@ fancy
 finding
 fetch
 flow
+friend
 Sd
 Sf
 ST
@@ -38726,6 +38730,8 @@ SSH
 Settings
 Sony
 SpaceX
+SmartPoint
+SmartPointer
 sd
 sG
 say
@@ -41889,6 +41895,7 @@ self
 showClass
 showAge
 showPerson
+studio
 wA
 wg
 wE
@@ -78900,6 +78907,8 @@ oLL
 over
 ones
 object
+ostream
+operator
 HY
 HE
 HB
@@ -85068,6 +85077,7 @@ Checkout
 Conflicts
 CERN
 CentOS
+Capacity
 NF
 NYd
 NIk
@@ -101711,6 +101721,7 @@ allocate
 allocateSpace
 atguigulinghuchong
 atguiguyueyue
+arr
 mo
 me
 mi
@@ -104868,6 +104879,7 @@ myObsidian
 members
 myClass
 mutable
+myArray
 Qu
 Qx
 Qi
@@ -114804,6 +114816,7 @@ protected
 person
 phone
 printer
+perator
 DI
 DL
 DXJ

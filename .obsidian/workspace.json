@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b64a4c7303e7c50c",
+        "id": "873bb916dbfaa307",
         "type": "tabs",
         "children": [
           {
-            "id": "302ef40d93a5beef",
+            "id": "ea9400f1d8a10800",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c++/C++入门day05.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c++/C++入门day05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c++/C++入门day05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "c++/C++入门day05.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -153,10 +146,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "302ef40d93a5beef",
+  "active": "ea9400f1d8a10800",
   "lastOpenFiles": [
     "c++/C++入门day04.md",
     "c++/C++入门day05.md",
+    "c++/attachments/Pasted image 20230228182023.png",
     "c++/C++入门day03.md",
     "c++/attachments/Pasted image 20230226233434.png",
     "C_ADT/队列.md",
@@ -182,7 +176,6 @@
     "c++/attachments/Pasted image 20230225133002.png",
     "c++/attachments/Pasted image 20230225104340.png",
     "c++/attachments/Pasted image 20230225102935.png",
-    "c++/attachments/Pasted image 20230225101756.png",
     "GNU/GDB、LLDB.md",
     "GNU/git.md",
     "GNU/ranger.md",
@@ -194,7 +187,6 @@
     "未命名.canvas",
     "csdiy/未命名",
     "csdiy/体系结构/CSAPP.md",
-    "csdiy/培养方案Pro.md",
     "csdiy/Web开发",
     "csdiy/images/favicon.ico",
     "csdiy/images",
