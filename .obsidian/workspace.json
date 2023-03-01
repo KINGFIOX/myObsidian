@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "873bb916dbfaa307",
+        "id": "dd5da6be422b31a4",
         "type": "tabs",
         "children": [
           {
-            "id": "ea9400f1d8a10800",
+            "id": "6f9bf0946ae13e9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "c++/C++入门day07.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "c++/C++入门day07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "c++/C++入门day07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "c++/C++入门day07.md"
+              }
             }
           }
         ],
@@ -146,20 +153,30 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ea9400f1d8a10800",
+  "active": "6f9bf0946ae13e9f",
   "lastOpenFiles": [
     "c++/C++入门day04.md",
-    "c++/C++入门day05.md",
-    "c++/attachments/Pasted image 20230228182023.png",
+    "c++/C++入门day07.md",
     "c++/C++入门day03.md",
-    "c++/attachments/Pasted image 20230226233434.png",
+    "c++/C++入门day06.md",
+    "日记/2023年03月01日-星期三.md",
+    "c++/attachments/Pasted image 20230301173315.png",
+    "c++/attachments/Pasted image 20230301171407.png",
+    "c++/attachments/Pasted image 20230301171012.png",
+    "c++/attachments/Pasted image 20230301170814.png",
+    "c++/attachments/Pasted image 20230301170749.png",
+    "c++/attachments/Pasted image 20230301170502.png",
+    "c++/attachments/Pasted image 20230301170221.png",
+    "c++/attachments/Pasted image 20230301170200.png",
+    "c++/attachments/Pasted image 20230301162228.png",
+    "c++/attachments/Pasted image 20230301160644.png",
+    "c++/C++入门day05.md",
     "C_ADT/队列.md",
     "C_ADT/链表.md",
     "C_ADT/树.md",
     "错题本/C++.md",
     "错题本",
     "c++/C++入门day01.md",
-    "c++/attachments/Pasted image 20230226132121.png",
     "GNU/GCC入门.md",
     "c++/C++入门day02.md",
     "日记/2023年02月25日-星期六.md",
@@ -169,24 +186,15 @@
     "收集箱/用markdown画流程图.md",
     "收集箱/LLBD调试教程.md",
     "收集箱/git.md",
-    "c++/attachments/Pasted image 20230225152852.png",
-    "c++/attachments/Pasted image 20230225144909.png",
-    "c++/attachments/Pasted image 20230225135009.png",
-    "c++/attachments/Pasted image 20230225133359.png",
-    "c++/attachments/Pasted image 20230225133002.png",
-    "c++/attachments/Pasted image 20230225104340.png",
-    "c++/attachments/Pasted image 20230225102935.png",
     "GNU/GDB、LLDB.md",
     "GNU/git.md",
     "GNU/ranger.md",
     "GNU/github.md",
     "python/NLP项目处理/pytorch初体验.md",
     "收集箱/编译过程解析.md",
-    "日记/2023年02月23日-星期四.md",
     "GNU/attachments",
     "未命名.canvas",
     "csdiy/未命名",
-    "csdiy/体系结构/CSAPP.md",
     "csdiy/Web开发",
     "csdiy/images/favicon.ico",
     "csdiy/images",

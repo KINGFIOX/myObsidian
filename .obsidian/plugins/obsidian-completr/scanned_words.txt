@@ -16247,6 +16247,7 @@ MERGING
 Merge
 MarkDown
 MyArray
+MyString
 Wh
 WN
 Wz
@@ -24798,6 +24799,11 @@ value
 verbos
 void
 visual
+vbtpr
+virtual
+vbprt
+vbtable
+vbptr
 Tj
 Tf
 TO
@@ -35611,6 +35617,8 @@ finding
 fetch
 flow
 friend
+false
+father
 Sd
 Sf
 ST
@@ -38732,6 +38740,7 @@ Sony
 SpaceX
 SmartPoint
 SmartPointer
+Size
 sd
 sG
 say
@@ -41896,6 +41905,9 @@ showClass
 showAge
 showPerson
 studio
+static
+sheep
+sheepTuo
 wA
 wg
 wE
@@ -57758,6 +57770,7 @@ ANSI
 ANIS
 Apply
 Alibaba
+Animal
 YZ
 Ywu
 Yf
@@ -78909,6 +78922,7 @@ ones
 object
 ostream
 operator
+objects
 HY
 HE
 HB
@@ -99406,6 +99420,8 @@ tracked
 tag
 txt
 token
+true
+table
 aT
 aWb
 aY
@@ -101722,6 +101738,7 @@ allocateSpace
 atguigulinghuchong
 atguiguyueyue
 arr
+animal
 mo
 me
 mi
@@ -104880,6 +104897,7 @@ members
 myClass
 mutable
 myArray
+myString
 Qu
 Qx
 Qi
@@ -109708,6 +109726,7 @@ bad
 branch
 bottom
 bacaf
+base
 es
 eq
 eEj
@@ -114817,6 +114836,8 @@ person
 phone
 printer
 perator
+pString
+pointer
 DI
 DL
 DXJ
