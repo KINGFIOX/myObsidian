@@ -7519,6 +7519,9 @@ local
 libMYLIB
 learning
 left
+list
+listsize
+linker
 cU
 cZu
 cg
@@ -10514,6 +10517,8 @@ checkou
 class
 calloc
 clang
+cat
+continue
 xu
 xKe
 xb
@@ -16248,6 +16253,7 @@ Merge
 MarkDown
 MyArray
 MyString
+Mobile
 Wh
 WN
 Wz
@@ -24804,6 +24810,9 @@ virtual
 vbprt
 vbtable
 vbptr
+vfptr
+vftable
+var
 Tj
 Tf
 TO
@@ -35619,6 +35628,8 @@ flow
 friend
 false
 father
+function
+finish
 Sd
 Sf
 ST
@@ -41908,6 +41919,12 @@ studio
 static
 sheep
 sheepTuo
+sigleman
+speak
+set
+style
+shellscript
+start
 wA
 wg
 wE
@@ -44826,6 +44843,8 @@ wiki
 web
 windows
 work
+what
+wildcard
 nW
 nh
 nr
@@ -53575,6 +53594,8 @@ undefine
 unix
 user
 unstash
+until
+undisplay
 Le
 Lv
 Lt
@@ -55825,6 +55846,7 @@ Loop
 Levels
 Linker
 Leibniz
+Library
 Ae
 AT
 AW
@@ -67062,6 +67084,8 @@ ignore
 idea
 image
 inline
+info
+iCloud
 jm
 jDZ
 jv
@@ -73104,6 +73128,7 @@ zvvvs
 zJJJZ
 zeros
 zhongyinmin
+zoom
 Zg
 ZD
 ZlY
@@ -78923,6 +78948,7 @@ object
 ostream
 operator
 objects
+obsidian
 HY
 HE
 HB
@@ -85092,6 +85118,7 @@ Conflicts
 CERN
 CentOS
 Capacity
+Cat
 NF
 NYd
 NIk
@@ -96476,6 +96503,7 @@ OCaml
 OpenJudge
 Optimization
 OpenSSL
+Obsidian
 tD
 tx
 tA
@@ -99422,6 +99450,10 @@ txt
 token
 true
 table
+type
+tpye
+tab
+touch
 aT
 aWb
 aY
@@ -101739,6 +101771,9 @@ atguigulinghuchong
 atguiguyueyue
 arr
 animal
+alt
+address
+auto
 mo
 me
 mi
@@ -104898,6 +104933,8 @@ myClass
 mutable
 myArray
 myString
+makefile
+make
 Qu
 Qx
 Qi
@@ -109727,6 +109764,7 @@ branch
 bottom
 bacaf
 base
+breakpoint
 es
 eq
 eEj
@@ -112815,6 +112853,9 @@ endif
 email
 externC
 explicit
+enable
+expression
+example
 pd
 pE
 px
@@ -114838,6 +114879,8 @@ printer
 perator
 pString
 pointer
+print
+ptype
 DI
 DL
 DXJ
@@ -116854,6 +116897,7 @@ Driven
 Darcs
 DmitriyZaporozhets
 DogEat
+Documents
 kq
 ky
 kd
@@ -122372,6 +122416,10 @@ diff
 develop
 dist
 delete
+disable
+display
+diskpy
+disalbe
 US
 Ue
 UY
@@ -128312,6 +128360,7 @@ Visual
 Ver
 Version
 ValerySizov
+Vault
 Ew
 EQ
 EX
