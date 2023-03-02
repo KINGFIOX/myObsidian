@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2dba4f572a292f40",
+        "id": "633d5729af90cb49",
         "type": "tabs",
         "children": [
           {
-            "id": "b7fa4be3b92f9300",
+            "id": "7a0c9977a8e95ffd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "系统编程/makefile入门.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "系统编程/makefile入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "系统编程/makefile入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "系统编程/makefile入门.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -134,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,10 +144,24 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b7fa4be3b92f9300",
+  "active": "0d3cacf936b75140",
   "lastOpenFiles": [
-    "GNU/GCC入门.md",
+    "C语言高级/栈的生长方向.md",
+    "C语言高级/回调函数.md",
+    "c++/C++入门day07.md",
+    "C语言高级",
+    "C_ADT/链表.md",
+    "C_ADT/队列.md",
+    "C_ADT/树.md",
+    "C_ADT/图.md",
+    "C_ADT/栈.md",
+    "系统编程/lldb.md",
+    "系统编程/lldb.md",
+    "收集箱/LLBD调试教程.md",
+    "GNU/GDB、LLDB.md",
+    "错题本/C++.md",
     "系统编程/makefile入门.md",
+    "GNU/GCC入门.md",
     "系统编程/attachments/Pasted image 20230302094704.png",
     "系统编程/attachments/Pasted image 20230302094410.png",
     "系统编程/gdb入门.md",
@@ -162,10 +169,7 @@
     "系统编程/attachments/Pasted image 20230302081734.png",
     "系统编程/attachments/Pasted image 20230302081355.png",
     "系统编程/attachments",
-    "未命名.md",
     "系统编程",
-    "收集箱/LLBD调试教程.md",
-    "c++/C++入门day07.md",
     "c++/C++入门day06.md",
     "c++/attachments/Pasted image 20230301230819.png",
     "c++/attachments/Pasted image 20230301215723.png",
@@ -176,28 +180,18 @@
     "c++/C++入门day03.md",
     "日记/2023年03月01日-星期三.md",
     "c++/C++入门day05.md",
-    "C_ADT/队列.md",
-    "C_ADT/链表.md",
-    "C_ADT/树.md",
-    "错题本/C++.md",
     "错题本",
     "c++/C++入门day01.md",
     "c++/C++入门day02.md",
     "日记/2023年02月25日-星期六.md",
     "README.md",
     "线性代数及其应用/特征值与特征空间（续）.md",
-    "收集箱/导数相关的符号.md",
-    "收集箱/用markdown画流程图.md",
-    "收集箱/git.md",
-    "GNU/GDB、LLDB.md",
-    "GNU/git.md",
     "GNU/attachments",
     "未命名.canvas",
     "csdiy/未命名",
     "csdiy/Web开发",
     "csdiy/images/favicon.ico",
     "csdiy/images",
-    "csdiy/CNAME",
-    "csdiy/系统安全"
+    "csdiy/CNAME"
   ]
 }

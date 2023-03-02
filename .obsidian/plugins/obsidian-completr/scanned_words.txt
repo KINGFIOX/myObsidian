@@ -7522,6 +7522,7 @@ left
 list
 listsize
 linker
+long
 cU
 cZu
 cg
@@ -10519,6 +10520,7 @@ calloc
 clang
 cat
 continue
+clean
 xu
 xKe
 xb
@@ -57793,6 +57795,7 @@ ANIS
 Apply
 Alibaba
 Animal
+Animall
 YZ
 Ywu
 Yf
@@ -67086,6 +67089,8 @@ image
 inline
 info
 iCloud
+install
+inode
 jm
 jDZ
 jv
@@ -104935,6 +104940,8 @@ myArray
 myString
 makefile
 make
+mkfile
+myForeach
 Qu
 Qx
 Qi
@@ -109765,6 +109772,7 @@ bottom
 bacaf
 base
 breakpoint
+block
 es
 eq
 eEj
@@ -114881,6 +114889,8 @@ pString
 pointer
 print
 ptype
+patsubst
+permissiong
 DI
 DL
 DXJ
@@ -122420,6 +122430,7 @@ disable
 display
 diskpy
 disalbe
+denied
 US
 Ue
 UY

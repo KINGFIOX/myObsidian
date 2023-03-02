@@ -5,6 +5,8 @@
 更新内容: 
 1. makefile的编写
 2. gdb入门(但是还没有时间)
+3. 学了一下多元函数
+4. 
 
 
 
@@ -17,5 +19,6 @@
 - 之前就是使用纸质的笔记本,想快速查找某些东西不是很方便
 - 高中的时候用的就是纸质的笔记本(废话,内地的高中还让带电子设备),我就对我的错题本非常熟悉,毕竟天天翻
 - 但是现在东西感觉挺多的,包括我之前学的git,但是我在建立这个库的时候又忘了,所以也想要整一个个人的知识库
--  https://share.goodnotes.com/s/B3LqqKU7yJlAYgniYmXNaB
+- https://share.goodnotes.com/s/B3LqqKU7yJlAYgniYmXNaB 微分方程
+- https://share.goodnotes.com/s/KwC6HcSgWLQFVqNDrVS61U 多元函数
 
