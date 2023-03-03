@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "633d5729af90cb49",
+        "id": "5bea7d5c63d71c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0c9977a8e95ffd",
+            "id": "3600b58537081c6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "c++/C++入门day08.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "c++/C++入门day08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "c++/C++入门day08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "c++/C++入门day08.md"
+              }
             }
           }
         ],
@@ -144,11 +152,28 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "0d3cacf936b75140",
+  "active": "3600b58537081c6c",
   "lastOpenFiles": [
+    "c++/C++入门day03.md",
+    "c++/C++入门day08.md",
+    "c++/C++入门day04.md",
+    "c++/attachments/Pasted image 20230303183803.png",
+    "c++/C++入门day02.md",
+    "c++/C++入门day01.md",
+    "c++/attachments/Pasted image 20230303144705.png",
+    "c++/attachments/Pasted image 20230303144449.png",
+    "c++/C++入门day07.md",
+    "c++/attachments/Pasted image 20230303095720.png",
+    "c++/attachments/Pasted image 20230303095156.png",
+    "c++/attachments/Pasted image 20230303092031.png",
+    "c++/attachments/Pasted image 20230303084718.png",
+    "c++/attachments/Pasted image 20230303084344.png",
+    "高数/大一上期末考试零散知识点.md",
+    "离散数学/集合论/集合代数.md",
+    "离散数学/集合论/函数.md",
+    "离散数学/集合论/二元关系.md",
     "C语言高级/栈的生长方向.md",
     "C语言高级/回调函数.md",
-    "c++/C++入门day07.md",
     "C语言高级",
     "C_ADT/链表.md",
     "C_ADT/队列.md",
@@ -165,27 +190,10 @@
     "系统编程/attachments/Pasted image 20230302094704.png",
     "系统编程/attachments/Pasted image 20230302094410.png",
     "系统编程/gdb入门.md",
-    "系统编程/attachments/Pasted image 20230302090032.png",
-    "系统编程/attachments/Pasted image 20230302081734.png",
-    "系统编程/attachments/Pasted image 20230302081355.png",
     "系统编程/attachments",
     "系统编程",
     "c++/C++入门day06.md",
-    "c++/attachments/Pasted image 20230301230819.png",
-    "c++/attachments/Pasted image 20230301215723.png",
-    "c++/attachments/Pasted image 20230301212446.png",
-    "c++/attachments/Pasted image 20230301211950.png",
-    "c++/attachments/Pasted image 20230301211938.png",
-    "c++/C++入门day04.md",
-    "c++/C++入门day03.md",
-    "日记/2023年03月01日-星期三.md",
-    "c++/C++入门day05.md",
     "错题本",
-    "c++/C++入门day01.md",
-    "c++/C++入门day02.md",
-    "日记/2023年02月25日-星期六.md",
-    "README.md",
-    "线性代数及其应用/特征值与特征空间（续）.md",
     "GNU/attachments",
     "未命名.canvas",
     "csdiy/未命名",

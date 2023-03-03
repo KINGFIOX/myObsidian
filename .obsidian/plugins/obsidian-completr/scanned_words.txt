@@ -7523,6 +7523,7 @@ list
 listsize
 linker
 long
+last
 cU
 cZu
 cg
@@ -10521,6 +10522,7 @@ clang
 cat
 continue
 clean
+cdecl
 xu
 xKe
 xb
@@ -35632,6 +35634,7 @@ false
 father
 function
 finish
+first
 Sd
 Sf
 ST
@@ -41927,6 +41930,8 @@ set
 style
 shellscript
 start
+stdcall
+swap
 wA
 wg
 wE
@@ -99459,6 +99464,8 @@ type
 tpye
 tab
 touch
+template
+typename
 aT
 aWb
 aY
@@ -114891,6 +114898,7 @@ print
 ptype
 patsubst
 permissiong
+printPerson
 DI
 DL
 DXJ
@@ -122431,6 +122439,7 @@ display
 diskpy
 disalbe
 denied
+double
 US
 Ue
 UY
