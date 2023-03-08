@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5bea7d5c63d71c6f",
+        "id": "07f54fb55cb7d57c",
         "type": "tabs",
         "children": [
           {
-            "id": "01edead3664e220d",
+            "id": "299918e6499f7390",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STL/STL入门day01.md",
+                "file": "c++/C++入门day03.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "explic",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STL/STL入门day01.md",
+                "file": "c++/C++入门day03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STL/STL入门day01.md",
+                "file": "c++/C++入门day03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STL/STL入门day01.md"
+                "file": "c++/C++入门day03.md"
               }
             }
           }
@@ -151,33 +152,42 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "01edead3664e220d",
+  "active": "299918e6499f7390",
   "lastOpenFiles": [
-    "STL/attachments/Pasted image 20230305233412.png",
-    "STL/attachments/Pasted image 20230305195046.png",
-    "c++/C++入门day09.md",
+    "GNU/GCC入门.md",
+    "Qtday01.md",
+    "attachments/Pasted image 20230307150946.png",
+    "attachments",
+    "STL/STL入门day03.md",
+    "Qt入门",
+    "c++/C++入门day03.md",
+    "错题本/C++.md",
+    "c++/C++入门day07.md",
+    "c++/C++入门day06.md",
+    "c++/C++入门day05.md",
+    "STL/attachments/Pasted image 20230307124416.png",
+    "STL/attachments/Pasted image 20230307113918.png",
+    "STL/attachments/Pasted image 20230307111125.png",
+    "STL/attachments/Pasted image 20230307110622.png",
+    "STL/attachments/Pasted image 20230307110045.png",
+    "STL/attachments/Pasted image 20230307105904.png",
     "STL/STL入门day01.md",
-    "STL/attachments/Pasted image 20230305151011.png",
+    "STL/STL入门day02.md",
+    "STL/attachments/Pasted image 20230307104604.png",
+    "STL/attachments/Pasted image 20230307093541.png",
+    "STL/attachments/Pasted image 20230307083337.png",
+    "c++/C++入门day04.md",
+    "c++/C++入门day08.md",
+    "c++/C++入门day09.md",
+    "c++/C++入门day02.md",
+    "C数据结构/链表.md",
+    "c++/C++入门day01.md",
     "STL/attachments",
     "C数据结构/图.md",
     "C数据结构/树.md",
     "STL",
     "c++/C++核心编程第二部分讲义.doc",
     "收集箱/C++标准IO.md",
-    "c++/attachments/Pasted image 20230304225358.png",
-    "c++/C++入门day04.md",
-    "c++/C++入门day07.md",
-    "c++/attachments/Pasted image 20230304215024.png",
-    "c++/attachments/Pasted image 20230304215021.png",
-    "c++/attachments/Pasted image 20230304215019.png",
-    "c++/C++入门day03.md",
-    "c++/C++入门day02.md",
-    "c++/C++入门day01.md",
-    "c++/attachments/Pasted image 20230304083922.png",
-    "c++/attachments/Pasted image 20230304083851.png",
-    "c++/attachments/Pasted image 20230304083833.png",
-    "c++/attachments/Pasted image 20230304083819.png",
-    "c++/C++入门day08.md",
     "高数/大一上期末考试零散知识点.md",
     "离散数学/集合论/集合代数.md",
     "离散数学/集合论/函数.md",
@@ -185,20 +195,11 @@
     "C语言高级/栈的生长方向.md",
     "C语言高级/回调函数.md",
     "C语言高级",
-    "C数据结构/链表.md",
     "C数据结构/队列.md",
-    "C数据结构/栈.md",
-    "系统编程/lldb.md",
-    "系统编程/lldb.md",
-    "收集箱/LLBD调试教程.md",
-    "GNU/GDB、LLDB.md",
-    "错题本/C++.md",
     "系统编程/attachments",
     "系统编程",
     "错题本",
     "GNU/attachments",
-    "未命名.canvas",
-    "csdiy/未命名",
-    "csdiy/Web开发"
+    "未命名.canvas"
   ]
 }

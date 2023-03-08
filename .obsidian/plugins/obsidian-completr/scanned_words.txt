@@ -1705,6 +1705,7 @@ PeE
 PQQb
 PyS
 PsADiLl
+Paircc
 IHDR
 IDATx
 IB
@@ -7550,6 +7551,9 @@ long
 last
 lSY
 lJC
+lower
+lambda
+less
 cU
 cZu
 cg
@@ -10562,6 +10566,7 @@ catch
 clear
 cin
 container
+count
 xu
 xKe
 xb
@@ -16310,6 +16315,7 @@ Mck
 Mai
 MyException
 MyOutOfRangeException
+MyPrint
 Wh
 WN
 Wz
@@ -22082,6 +22088,7 @@ good
 get
 getline
 gets
+greater
 vW
 vI
 vZ
@@ -35745,6 +35752,8 @@ fmtfl
 fill
 fillch
 flush
+find
+functional
 Sd
 Sf
 ST
@@ -42063,6 +42072,9 @@ setfill
 setprecision
 setw
 sync
+sort
+search
+shuffle
 wA
 wg
 wE
@@ -53777,6 +53789,9 @@ ufeI
 unitbuf
 uppercase
 unsetf
+upper
+unary
+union
 Le
 Lv
 Lt
@@ -67299,6 +67314,7 @@ internal
 interbal
 iterator
 invalid
+intersection
 jm
 jDZ
 jv
@@ -99758,6 +99774,9 @@ terminate
 try
 tbody
 trunc
+tolower
+toupper
+transform
 aT
 aWb
 aY
@@ -102091,6 +102110,8 @@ amp
 ate
 algorithm
 assign
+adjacent
+accumulate
 mo
 me
 mi
@@ -105265,6 +105286,9 @@ mwh
 myE
 myException
 mask
+multiset
+multimap
+myPrint
 Qu
 Qx
 Qi
@@ -110121,6 +110145,8 @@ basefield
 boolalpha
 binary
 buffer
+bound
+bind
 es
 eq
 eEj
@@ -113219,6 +113245,10 @@ eHDG
 exception
 eofbit
 ends
+erase
+empty
+equal
+each
 pd
 pE
 px
@@ -115262,6 +115292,7 @@ prec
 peek
 putback
 position
+pair
 DI
 DL
 DXJ
@@ -120378,6 +120409,7 @@ kmhF
 kJg
 kqT
 knk
+keyElem
 dR
 dq
 dV
@@ -122833,6 +122865,7 @@ dHPn
 daN
 dec
 deque
+difference
 US
 Ue
 UY
@@ -137835,6 +137868,7 @@ GkX
 GYme
 GHN
 GJM
+GreaterThan
 rH
 re
 rjR
@@ -140782,6 +140816,14 @@ rFT
 rdstate
 rowspan
 range
+reserve
+reverse
+rbegin
+rend
+remove
+ret
+resize
+random
 JcU
 JPP
 Jy
