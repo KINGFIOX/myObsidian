@@ -4,7 +4,7 @@
   "translucency": false,
   "cssTheme": "traffic",
   "baseFontSizeAction": true,
-  "baseFontSize": 16,
+  "baseFontSize": 12,
   "textFontFamily": "JetBrainsMonoNL Nerd Font",
   "interfaceFontFamily": "JetBrainsMonoNL Nerd Font",
   "monospaceFontFamily": "JetBrainsMonoNL Nerd Font"

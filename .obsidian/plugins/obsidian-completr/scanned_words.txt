@@ -1706,6 +1706,7 @@ PQQb
 PyS
 PsADiLl
 Paircc
+PushButton
 IHDR
 IDATx
 IB
@@ -10567,6 +10568,10 @@ clear
 cin
 container
 count
+command
+connect
+clicked
+close
 xu
 xKe
 xb
@@ -16316,6 +16321,7 @@ Mai
 MyException
 MyOutOfRangeException
 MyPrint
+MyPushButton
 Wh
 WN
 Wz
@@ -30086,6 +30092,7 @@ httb
 hCeZ
 hiOly
 hpd
+hungery
 yh
 yJ
 yM
@@ -38880,6 +38887,9 @@ SBI
 Sgc
 SDB
 SSPK
+Signalss
+SIGNAL
+SLOT
 sd
 sG
 say
@@ -42075,6 +42085,10 @@ sync
 sort
 search
 shuffle
+show
+slots
+slot
+student
 wA
 wg
 wE
@@ -45006,6 +45020,8 @@ wKNH
 wide
 widen
 write
+widget
+wideget
 nW
 nh
 nr
@@ -57999,6 +58015,7 @@ AuLW
 ANVF
 AKh
 Aeb
+AbstractButton
 YZ
 Ywu
 Yf
@@ -63990,6 +64007,8 @@ qxa
 qPJ
 qnh
 qCn
+qmake
+qDebug
 if
 iH
 ix
@@ -67315,6 +67334,11 @@ interbal
 iterator
 invalid
 intersection
+inhert
+iphone
+ipad
+iwatch
+invaild
 jm
 jDZ
 jv
@@ -96806,6 +96830,7 @@ OyL
 Ofj
 OzZ
 OsD
+Object
 tD
 tx
 tA
@@ -99777,6 +99802,7 @@ trunc
 tolower
 toupper
 transform
+teacher
 aT
 aWb
 aY
@@ -105289,6 +105315,7 @@ mask
 multiset
 multimap
 myPrint
+myBtn
 Qu
 Qx
 Qi
@@ -107985,6 +108012,16 @@ QtJW
 Qky
 QJCOlh
 QrC
+Qwidget
+QmainWindow
+Qdialog
+QPushButton
+QAbstractButton
+QWidget
+QObject
+QPUshButton
+QString
+QByteArray
 bF
 bP
 bc
@@ -113249,6 +113286,7 @@ erase
 empty
 equal
 each
+emit
 pd
 pE
 px
@@ -122866,6 +122904,7 @@ daN
 dec
 deque
 difference
+disconnect
 US
 Ue
 UY

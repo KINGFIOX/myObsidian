@@ -19,5 +19,7 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "useMarkdownLinks": false,
-  "livePreview": false
+  "livePreview": false,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": true
 }
