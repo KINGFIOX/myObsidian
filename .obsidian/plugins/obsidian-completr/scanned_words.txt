@@ -7555,6 +7555,8 @@ lJC
 lower
 lambda
 less
+label
+line
 cU
 cZu
 cg
@@ -10572,6 +10574,8 @@ command
 connect
 clicked
 close
+critical
+checkBox
 xu
 xKe
 xb
@@ -35761,6 +35765,7 @@ fillch
 flush
 find
 functional
+flag
 Sd
 Sf
 ST
@@ -38890,6 +38895,7 @@ SSPK
 Signalss
 SIGNAL
 SLOT
+StandandButton
 sd
 sG
 say
@@ -42089,6 +42095,10 @@ show
 slots
 slot
 student
+setupUi
+spacer
+stateChanged
+setTextAlignment
 wA
 wg
 wE
@@ -45022,6 +45032,7 @@ widen
 write
 widget
 wideget
+windowsTitle
 nW
 nh
 nr
@@ -56064,6 +56075,7 @@ LWc
 LGO
 LCL
 LFo
+LeftToolBarArea
 Ae
 AT
 AW
@@ -58016,6 +58028,7 @@ ANVF
 AKh
 Aeb
 AbstractButton
+Abort
 YZ
 Ywu
 Yf
@@ -64009,6 +64022,7 @@ qnh
 qCn
 qmake
 qDebug
+question
 if
 iH
 ix
@@ -67339,6 +67353,7 @@ iphone
 ipad
 iwatch
 invaild
+icon
 jm
 jDZ
 jv
@@ -85411,6 +85426,8 @@ Cty
 CNLq
 CbC
 Cerr
+Containers
+CheckBox
 NF
 NYd
 NIk
@@ -99803,6 +99820,11 @@ tolower
 toupper
 transform
 teacher
+triggered
+toolButton
+toolButtonStyle
+toolButtonIconOnly
+tristate
 aT
 aWb
 aY
@@ -102138,6 +102160,11 @@ algorithm
 assign
 adjacent
 accumulate
+addToolBar
+actionNew
+abort
+autoRaise
+addItem
 mo
 me
 mi
@@ -105316,6 +105343,9 @@ multiset
 multimap
 myPrint
 myBtn
+mainWindows
+minimalSize
+maximalSize
 Qu
 Qx
 Qi
@@ -108022,6 +108052,14 @@ QObject
 QPUshButton
 QString
 QByteArray
+QIcon
+QMessageBox
+QFont
+QCheckBox
+QListWidget
+QListWidgetItem
+QListWidgetItems
+QStringList
 bF
 bP
 bc
@@ -110184,6 +110222,7 @@ binary
 buffer
 bound
 bind
+butterfly
 es
 eq
 eEj
@@ -113287,6 +113326,8 @@ empty
 equal
 each
 emit
+exec
+edit
 pd
 pE
 px
@@ -115331,6 +115372,7 @@ peek
 putback
 position
 pair
+password
 DI
 DL
 DXJ
@@ -137908,6 +137950,7 @@ GYme
 GHN
 GJM
 GreaterThan
+GroupBox
 rH
 re
 rjR
@@ -140863,6 +140906,7 @@ remove
 ret
 resize
 random
+radioButton
 JcU
 JPP
 Jy

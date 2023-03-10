@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a88c6f6b50054d4",
+        "id": "04f29aa22b0f5899",
         "type": "tabs",
         "children": [
           {
-            "id": "a97b40fd2b1b5a0c",
+            "id": "069f405ad605b184",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qt入门/Qtday01.md",
+                "file": "Qt入门/Qtday02.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "list",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qt入门/Qtday01.md",
+                "file": "Qt入门/Qtday02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qt入门/Qtday01.md",
+                "file": "Qt入门/Qtday02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qt入门/Qtday01.md"
+                "file": "Qt入门/Qtday02.md"
               }
             }
           }
@@ -152,21 +152,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "a97b40fd2b1b5a0c",
+  "active": "069f405ad605b184",
   "lastOpenFiles": [
-    "c++/C++入门day04.md",
+    "STL/STL入门day02.md",
+    "Qt入门/Qtday02.md",
     "Qt入门/Qtday01.md",
+    "Qt入门/attachments/Pasted image 20230310185224.png",
+    "Qt入门/attachments/Pasted image 20230310183519.png",
+    "Qt入门/attachments/Pasted image 20230310183338.png",
+    "Qt入门/attachments/Pasted image 20230310170259.png",
+    "Qt入门/attachments/Pasted image 20230310100211.png",
+    "Qt入门/attachments/Pasted image 20230310092848.png",
+    "Qt入门/attachments/Pasted image 20230309231105.png",
+    "c++/C++入门day04.md",
     "STL/STL入门day03.md",
     "Qt入门/attachments/Pasted image 20230309161941.png",
     "Qt入门/attachments/Pasted image 20230309144602.png",
     "Qt入门/attachments/Pasted image 20230309144419.png",
-    "Qt入门/attachments/Pasted image 20230309142603.png",
-    "Qt入门/attachments/Pasted image 20230309141619.png",
-    "Qt入门/attachments/Pasted image 20230309133839.png",
-    "Qt入门/attachments/Pasted image 20230309132520.png",
-    "Qt入门/attachments/Pasted image 20230309110712.png",
-    "Qt入门/attachments/Pasted image 20230309110512.png",
-    "Qt入门/attachments/Pasted image 20230309110333.png",
     "c++/C++入门day06.md",
     "Qt入门/attachments",
     "Qtday01.md",
@@ -178,7 +180,6 @@
     "错题本/C++.md",
     "c++/C++入门day07.md",
     "c++/C++入门day05.md",
-    "STL/STL入门day02.md",
     "c++/C++入门day08.md",
     "c++/C++入门day09.md",
     "c++/C++入门day02.md",
@@ -194,7 +195,6 @@
     "离散数学/集合论/集合代数.md",
     "离散数学/集合论/函数.md",
     "离散数学/集合论/二元关系.md",
-    "C语言高级/栈的生长方向.md",
     "C语言高级",
     "系统编程/attachments",
     "系统编程",
