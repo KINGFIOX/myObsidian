@@ -1707,6 +1707,8 @@ PyS
 PsADiLl
 Paircc
 PushButton
+People
+Plain
 IHDR
 IDATx
 IB
@@ -7557,6 +7559,8 @@ lambda
 less
 label
 line
+leng
+leetcode
 cU
 cZu
 cg
@@ -10576,6 +10580,8 @@ clicked
 close
 critical
 checkBox
+comboBox
+constant
 xu
 xKe
 xb
@@ -16326,6 +16332,8 @@ MyException
 MyOutOfRangeException
 MyPrint
 MyPushButton
+Man
+Module
 Wh
 WN
 Wz
@@ -19182,6 +19190,7 @@ Wggfq
 Wia
 WET
 Wce
+Widget
 gi
 gd
 gx
@@ -22099,6 +22108,8 @@ get
 getline
 gets
 greater
+gsub
+gmatch
 vW
 vI
 vZ
@@ -24913,6 +24924,7 @@ vZL
 vtvX
 vkVR
 vector
+valueChange
 Tj
 Tf
 TO
@@ -27754,6 +27766,9 @@ TCG
 TKG
 Taq
 TLlaGx
+Tree
+ToolBox
+Time
 hU
 hp
 hK
@@ -30097,6 +30112,7 @@ hCeZ
 hiOly
 hpd
 hungery
+horizontalSlider
 yh
 yJ
 yM
@@ -35766,6 +35782,8 @@ flush
 find
 functional
 flag
+funcion
+flaaap
 Sd
 Sf
 ST
@@ -38896,6 +38914,10 @@ Signalss
 SIGNAL
 SLOT
 StandandButton
+ScrollArea
+Stacked
+Scroll
+Slider
 sd
 sG
 say
@@ -42099,6 +42121,15 @@ setupUi
 spacer
 stateChanged
 setTextAlignment
+stackedWidget
+sayHi
+shll
+sayHello
+spin
+spinBox
+select
+sourcestr
+setmetatable
 wA
 wg
 wE
@@ -45033,6 +45064,10 @@ write
 widget
 wideget
 windowsTitle
+words
+wordld
+world
+with
 nW
 nh
 nr
@@ -47797,6 +47832,9 @@ noshowpoint
 noskipws
 nouppercase
 nounitbuf
+number
+nil
+neovim
 FV
 Fh
 FC
@@ -56076,6 +56114,7 @@ LGO
 LCL
 LFo
 LeftToolBarArea
+Lua
 Ae
 AT
 AW
@@ -58029,6 +58068,7 @@ AKh
 Aeb
 AbstractButton
 Abort
+ABCD
 YZ
 Ywu
 Yf
@@ -64023,6 +64063,7 @@ qCn
 qmake
 qDebug
 question
+questions
 if
 iH
 ix
@@ -67354,6 +67395,8 @@ ipad
 iwatch
 invaild
 icon
+index
+ipairs
 jm
 jDZ
 jv
@@ -73399,6 +73442,8 @@ zhongyinmin
 zoom
 zJm
 zhX
+zhangshan
+zzza
 Zg
 ZD
 ZlY
@@ -79232,6 +79277,7 @@ oYNp
 oXq
 open
 openmode
+oterh
 HY
 HE
 HB
@@ -81122,6 +81168,7 @@ HIj
 HYA
 Hkiiag
 HQj
+Horizontal
 Bj
 BfSF
 Bf
@@ -83024,6 +83071,7 @@ Bö
 BdT
 BOG
 Bzn
+Bar
 Ci
 Cz
 Cb
@@ -99825,6 +99873,7 @@ toolButton
 toolButtonStyle
 toolButtonIconOnly
 tristate
+then
 aT
 aWb
 aY
@@ -102165,6 +102214,12 @@ actionNew
 abort
 autoRaise
 addItem
+addItems
+average
+abcd
+abcdabcd
+array
+alternatetable
 mo
 me
 mi
@@ -105346,6 +105401,12 @@ myBtn
 mainWindows
 minimalSize
 maximalSize
+myWidget
+match
+mytable
+module
+mymod
+modules
 Qu
 Qx
 Qi
@@ -108060,6 +108121,11 @@ QListWidget
 QListWidgetItem
 QListWidgetItems
 QStringList
+QTreeWidget
+QTreeWidgetItem
+QTableWidget
+QTableWidgetItem
+QList
 bF
 bP
 bc
@@ -110223,6 +110289,8 @@ buffer
 bound
 bind
 butterfly
+bar
+byte
 es
 eq
 eEj
@@ -113328,6 +113396,8 @@ each
 emit
 exec
 edit
+else
+error
 pd
 pE
 px
@@ -115373,6 +115443,11 @@ putback
 position
 pair
 password
+pairs
+people
+poeople
+punctuation
+pcall
 DI
 DL
 DXJ
@@ -117401,6 +117476,7 @@ Dmq
 Dck
 Dlp
 DsKT
+DataTime
 kq
 ky
 kd
@@ -122947,6 +123023,7 @@ dec
 deque
 difference
 disconnect
+down
 US
 Ue
 UY
@@ -128898,6 +128975,7 @@ VWpfWA
 VJG
 VtMA
 View
+Vertical
 Ew
 EQ
 EX
@@ -131740,6 +131818,7 @@ EkeU
 EBsS
 EdU
 EPrW
+Edit
 Ra
 Rc
 RM
@@ -134799,6 +134878,8 @@ RuH
 Rad
 RaN
 RnlOKF
+Runoob
+Reimplemented
 GF
 Gm
 Gc
@@ -140907,6 +140988,10 @@ ret
 resize
 random
 radioButton
+result
+runoob
+runoobg
+require
 JcU
 JPP
 Jy

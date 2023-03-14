@@ -240,7 +240,52 @@ ui-listWidget->addItems(list);
 - QString::number(18);可以将18从int转成QString
 - 除了中括号访问，还可以用.at(i)来访问
 
-### 
+### ScrollArea滚动区域
+
+### ToolBox工具区
+- 插入列
+- 改名
+
+### Tab Widget
+- 插入列
+- 改名
+
+### Stacked Widget
+stackedWidget并不是像预览那样，有一个小的箭头，而是需要触发才能换页
+
+### comboBox下拉菜单
+- 这个下拉菜单，假如想要设置默认，或者是触发槽函数的话
+下拉菜单的定位可以是:index，也可以是 名字
+
+### Text Edit 和 Plain Text edit
+- Text Edit 可以设置字体/颜色/格式
+- Plain Text Edit 就非常的平凡
+
+### spin Box和double spin bOX
+就是可以选择数量，比方说京东那种
+- double就是可以有小数
+
+### Time Edit / Time edit / Data Edit / DataTime Edit
+
+### Vertical Scroll Bar / Horizontal Scroll bar
+水平竖直滚动条
+
+### Horizontal Slider / Vertical Slider
+水平竖直滑块，就是假如设置好的话，可以做到滚动的同时，spinBox的数字增加
+
+### label
+- 不止可以显示文字
+- 还可以显示图片
+`ui->label_img->setPixmap(QPixmap(":/images/butterfly"));`
+- 还可以显示动态的图片
+```C++
+QMovie *movie = new QMovie(":/xxx.gif");
+ui->label_movie->setMovie(movie);
+// 这个时候还没完。要start以后才有用
+movie->start();
+```
+
+
 
 
 
